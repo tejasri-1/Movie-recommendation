@@ -21,9 +21,11 @@ At the end of this we should be able to:
 ## Lunar Lander Landing with Deep Q-Learning
  Involves training an agent using Deep Q-Learning to land a Lunar Lander successfully. After many unsuccessful attempts in learning how to do it, the rover was trained to land correctly on the surface, precisely between the flags as indicators. The final landing achieved after training the agent using appropriate parameters showcases the effectiveness of the Deep Q-Learning algorithm in solving complex tasks.
 
-<center>
-    <iframe width="600" height="375" src="assets\lunar.mp4" frameborder="0" allowfullscreen></iframe>
-</center>
+
+
+
+https://github.com/Lakshya-GG/Machine-Learning-Specialization-Coursera/assets/92517597/6c766d3e-f82d-468e-ae38-23fc18667f82
+
 
 
 ## Contributing
