@@ -1,7 +1,7 @@
-# Machine Learning Repository
+# Machine Learning
 
 ## Overview
-This repository contains materials and solutions for the Machine Learning Specialization offered by Stanford University and Deeplearning.ai on Coursera. The specialization covers a wide range of topics in machine learning, including supervised learning, advanced learning algorithms, unsupervised learning, recommender systems, and reinforcement learning.
+This repository contains materials and codes for Machine Learning, covers a wide range of topics including supervised learning, advanced learning algorithms, unsupervised learning, recommender systems, and reinforcement learning.
 
 ## Tools Used
 - Python programming language
@@ -19,7 +19,30 @@ At the end of this we should be able to:
 - Develop reinforcement learning algorithms, as demonstrated by the implementation of Deep Q-Learning for landing the Lunar Lander.
 
 ## Lunar Lander Landing with Deep Q-Learning
-The final project of this specialization involves training an agent using Deep Q-Learning to land a Lunar Lander successfully. After many unsuccessful attempts in learning how to do it, the rover was trained to land correctly on the surface, precisely between the flags as indicators. The final landing achieved after training the agent using appropriate parameters showcases the effectiveness of the Deep Q-Learning algorithm in solving complex tasks.
+ Involves training an agent using Deep Q-Learning to land a Lunar Lander successfully. After many unsuccessful attempts in learning how to do it, the rover was trained to land correctly on the surface, precisely between the flags as indicators. The final landing achieved after training the agent using appropriate parameters showcases the effectiveness of the Deep Q-Learning algorithm in solving complex tasks.
+
+<center>
+    <iframe width="600" height="375" src="assets\lunar.mp4" frameborder="0" allowfullscreen></iframe>
+</center>
 
 
-<iframe width="600" height="375" src="https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-86eb-23dd90093ab3.mp4" frameborder="0" allowfullscreen></iframe>
+## Contributing
+
+We welcome contributions from the community! Here are some guidelines to follow:
+
+- Please fork the repository and create a new branch for your contribution.
+- Make sure to follow the existing code style and conventions.
+- Write clear and concise commit messages.
+- Submit a pull request with your changes and a description of what you added or fixed.
+
+## Bug Reports and Feature Requests
+
+If you find a bug or have a feature request, please open an issue on the project's [issue tracker](https://github.com/example/project/issues) with a detailed description.
+
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/example/project/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+
+## License
+This game is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Please see the [LICENSE.md](https://github.com/Lakshya-GG/Machine-Learning-Specialization-Coursera/blob/main/LICENSE.md) file for more information.
